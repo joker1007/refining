@@ -8,9 +8,9 @@ Gem::Specification.new do |spec|
   spec.version       = Refining::VERSION
   spec.authors       = ["joker1007"]
   spec.email         = ["kakyoin.hierophant@gmail.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
-  spec.homepage      = ""
+  spec.summary       = %q{Syntax Sugar of inline refinement module}
+  spec.description   = %q{Syntax Sugar of inline refinement module}
+  spec.homepage      = "https://github.com/joker1007/refining"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
