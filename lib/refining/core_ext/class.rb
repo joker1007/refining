@@ -1,4 +1,4 @@
-class Module
+class Class
   def refining(topic, &block)
     raise "refining needs block" unless block
 
