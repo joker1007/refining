@@ -1,8 +1,8 @@
 # Refining
 
-This gem defines `Module#refining`.
+This gem defines `Class#refining`.
 
-`Module#refining` is helper of defining refinement module at inner class.
+`Class#refining` is helper of defining refinement module at inner class.
 
 ### before
 
