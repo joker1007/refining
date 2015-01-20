@@ -33,7 +33,7 @@ end
 require 'refining'
 
 class User
-  refining :AdministratorRoll
+  refining :AdministratorRoll do
     def delete_post(name)
       "Delete: #{name}"
     end
